@@ -1,0 +1,8 @@
+# Grokchain Miner Client
+
+Mining client for:
+- BTC-Pearl (BTC-P)
+- BTC-Black (BTC-B)
+- BTC-Platinum (BTC-Pl)
+
+10-day blocks, cloud GPU support, connected to Grokchain.
